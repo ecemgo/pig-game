@@ -27,11 +27,11 @@
 
 <div align="left">
 <h3>The beginning of the game</h3>
-<img src=images/screenshot-1.jpg title="pig game" alt="pig game" width="700" height="400"/>
+<img src=images/screenshot-1.jpg title="pig game" alt="pig game" width="700" height="450"/>
 <h3>During the game</h3>
-<img src=images/screenshot-2.jpg title="pig game" alt="pig game" width="700" height="400"/>
+<img src=images/screenshot-2.jpg title="pig game" alt="pig game" width="700" height="450"/>
 <h3>At the end of the game</h3>
-<img src=images/screenshot-3.jpg title="pig game" alt="pig game" width="700" height="400"/>
+<img src=images/screenshot-3.jpg title="pig game" alt="pig game" width="700" height="450"/>
 </div>
 
 ## My process
