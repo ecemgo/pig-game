@@ -8,6 +8,7 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
+  - [Lighthouse report](#lighthouse-report)
 - [Author](#author)
 
 ## Overview
@@ -44,6 +45,11 @@
 ### Useful resources
 
 - [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) - Jonas Schmedtmann's course helps how to develop the game by using Javascript DOM manipulation.
+
+### Lighthouse report
+
+<img src="https://github.com/ecemgo/ecemgo/assets/13468728/426b29b4-6b70-4fe3-9d45-022a8afd2855" title="lighthouse report" alt="lighthouse report" width="400" height="90"/>
+
 
 ## Author
 
